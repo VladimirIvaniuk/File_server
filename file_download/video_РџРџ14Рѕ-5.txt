@@ -1,0 +1,11 @@
+[11.12.2016]
+
+type hint	https://youtu.be/KB3gr_jrr6M
+sessions	https://youtu.be/o2GRPPb8i2Y
+var_input	https://youtu.be/x0BEwYzLtOE
+
+
+[18.12.2016]
+
+file uploads	https://youtu.be/8yNuAIdRKho
+string and regex https://youtu.be/7tEeU1NQ1K0

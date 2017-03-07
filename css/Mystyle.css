@@ -1,0 +1,64 @@
+
+body{
+    background-image: url("../img/body_bg.jpg");
+    margin-bottom: 120px !important;
+    font-family: "Britannic Bold";
+    font-size: 18px;
+}
+.navbar-inverse .navbar-brand{
+    padding-left: 60px;
+    background: url("../img/Vanamo-Logo.png") no-repeat 15px;
+    color: white;
+    font-family: "Britannic Bold";
+    font-size: 25px;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Фиксированная высота футера */
+    height: 80px;
+    background-color: #000000;
+}
+#content{
+    padding-top: 100px;
+    color: white;
+}
+#tree{
+    margin-top: 30px;
+    margin-left: 10px;
+}
+tbody tr:hover{
+    cursor: pointer;
+}
+
+tbody tr{
+    color:#333;
+}
+table{
+    background: url("../img/i.jpg") no-repeat;
+    -webkit-background-size:cover;
+    background-size:cover;
+}
+.checked{
+    background: #ffc107;
+    color:white;
+}
+.icon_dir {
+    background: url("../img/icon_dir.png") no-repeat left;
+    padding-left: 40px;
+
+}
+.icon_file{
+    background: url("../img/icon_file.png")no-repeat left;
+}
+.icon_dir span{
+    margin-left: 30px;
+}
+.icon_file span{
+    margin-left: 30px;
+}
+tr{
+    color: black;
+    font-size: 50px;
+}
